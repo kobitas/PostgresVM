@@ -1,3 +1,3 @@
 #!/bin/bash
 
-vagrant destroy
+vagrant halt
